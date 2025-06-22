@@ -34,7 +34,7 @@ import kartik_work from './kartik_work.png';
 import overair_work from './overair_work.png';
 import yashwork1 from './yashwork1.png';
 import yashwork4 from './yashwork4.png';
-import Angular from './tech/angular.png';
+import Angular from './tech/Angular.png';
 
 export {
   logo,
