@@ -43,7 +43,7 @@ import {
 
 import overairLogo from '../assets/overair-logo.png';
 import numericLogo from '../assets/Numeric-logo.png';
-import globallogo from '../assets/global-logo.png';
+import globallogo from '../assets/Global-logo.png';
 import codenialogo from '../assets/Codenia-logo.png';
 
 // import "overair-logo" from '../assets/overair-logo.png';
